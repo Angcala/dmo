@@ -1,0 +1,2 @@
+class DMO:
+    pass
